@@ -24,3 +24,4 @@ We get the accuracy of '0.8031', and loss of '0.5597'
 
 And for model to predict the class of the image, calculate the 'y_pred' score.
 
+And our model is successfully created which can predict the classes of images present in the dataset.
