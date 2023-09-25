@@ -1,4 +1,4 @@
-# Image-Based-Classification-using-Convolutional-Neural-Networks
+# Image Based Classification using Convolutional Neural Networks
 It is a Deep Learning Project based on CNN predicting the name of the object by its image. Uisng the CIFAR-10 dataset.
 In the CIFAR-10 dataset, there are 60,000 images of objects and creatures derived as classes in the notebook, such as Airplane, Automobile, Horse, Birds, Cat, Deer, Dog, Frog, ship, Truck. 
 There are total 10 classes and each class has 6000 images in different natural and lightng conditions. All of 32*32 px.
